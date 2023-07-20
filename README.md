@@ -2,11 +2,13 @@
 An extra watch (ROLEX) for your qb-server that allows you to see it on screen
 
 ------------------------------------------------------------------------------------------
-__**WARNING:**__
-THIS IS NOT FINISHED AND STILL NEEDS:
-• Animations
-• Ingame Time instead of Real Time
-• Clock face needs to look more realistic
+<p align="center">
+  <em>__**WARNING:**__</em><br>
+  <strong>THIS IS NOT FINISHED AND STILL NEEDS:</strong><br>
+  • Animations<br>
+  • Ingame Time instead of Real Time<br>
+  • Clock face needs to look more realistic
+</p>
 
 ------------------------------------------------------------------------------------------
 __Qb-Inventory__ 
