@@ -1,5 +1,5 @@
 # Qb-rolex
-An extra watch (ROLEX) item for your qb-server that allows you to see it on screen and see realtime. This watch was inspired by the [qb-fitbit](https://github.com/qbcore-framework/qb-fitbit) made by [QB](https://github.com/qbcore-framework). I hope that this script wil inspire you to create your very own scripts too. By all means I am not a teacher nor a porfessinal __YET__😉.
+An extra watch (ROLEX) item for your qb-server that allows you to see it on screen and see realtime. This watch was inspired by the [qb-fitbit](https://github.com/qbcore-framework/qb-fitbit) made by [QB](https://github.com/qbcore-framework). I hope that this script wil inspire you to create your very own scripts too. By all means I am not a teacher nor a porfessinal **YET** 😉.
 
 ------------------------------------------------------------------------------------------
 <p align="center">
