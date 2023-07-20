@@ -9,8 +9,7 @@ THIS IS NOT FINISHED AND STILL NEEDS:
 
 __Qb-Inventory__ 
 [qb]/qb-inventory/html/images
-![This image should be added to this directory](Qb-rolex
-/rolexnew.png)
+![This image should be added to this directory](/rolexnew.png)
 
 __Qb-Core__
 [qb]/qb-core/shared/items./lua
