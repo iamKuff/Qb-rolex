@@ -3,7 +3,7 @@ An extra watch (ROLEX) for your qb-server that allows you to see it on screen
 
 ------------------------------------------------------------------------------------------
 <p align="center">
-  <em>__**WARNING:**__</em><br>
+  <em>WARNING:</em><br>
   <strong>THIS IS NOT FINISHED AND STILL NEEDS:</strong><br>
   • Animations<br>
   • Ingame Time instead of Real Time<br>
